@@ -19,7 +19,7 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Grace Hopper Celebration Attendee | Northeastern Student | Graduate Teaching Assistant
 
 ## Recognition
 
